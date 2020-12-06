@@ -22,9 +22,9 @@
   "text.autoconfig.healthmod.option.bandageInfectionChanceWhenHealthy": "Probabilità di infezione di cerotto (Sano)",
   "text.autoconfig.healthmod.option.bandageInfectionChanceWhenHealthy.@Tooltip": "Probabilità che gli antibiotici falliscono e ti danno un infezione feritale quando sei sano (1/valore configurazione)",
   "text.autoconfig.healthmod.option.damagedInfectionChance": "Probabilità di infezione quando danneggiato",
-  "text.autoconfig.healthmod.option.damagedInfectionChance.@Tooltip": "Probabilità che prendi un infezione feritale quando danneggiato da 2 o più (1/valore configurazione)",
+  "text.autoconfig.healthmod.option.damagedInfectionChance.@Tooltip": "Probabilità che contrai un infezione feritale quando danneggiato da 2 o più (1/valore configurazione)",
   "text.autoconfig.healthmod.option.damagedInfectionChanceWhenHealthy": "Probabilità di infezione quando danneggiato (Sano)",
-  "text.autoconfig.healthmod.option.damagedInfectionChanceWhenHealthy.@Tooltip": "Probabilità che prendi un infezione feritale quando sano e danneggiato da 2 o più (1/valore configurazione)",
+  "text.autoconfig.healthmod.option.damagedInfectionChanceWhenHealthy.@Tooltip": "Probabilità che contrai un infezione feritale quando sano e danneggiato da 2 o più (1/valore configurazione)",
   "block.healthmod.bandage_box": "Scatola di cerotti",
   "death.attack.wound_infection": "%1$s è morto di un infezione feritale",
   "death.attack.wound_infection.player": "%1$s è morto di un infezione feritale"
