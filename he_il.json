@@ -3,7 +3,7 @@
   "item.healthmod.bandage": "תחבושת",
   "item.healthmod.blood_vial": "בקבוקון דם",
   "item.healthmod.broccoli": "ברוקולי",
-  "item.healthmod.first_aid_kit": "ערכת עזרה ראשונה",
+  "block.healthmod.first_aid_kit": "ערכת עזרה ראשונה",
   "effect.healthmod.healthy": "בריא",
   "effect.healthmod.wound_infection": "זיהום פצע",
   "itemGroup.healthmod.all": "HealthMod",
