@@ -27,6 +27,7 @@
   "text.autoconfig.healthmod.option.damagedInfectionChanceWhenHealthy.@Tooltip": "הסיכוי לקבל זיהום פצע כשאת/ה נפגע/ה ממכה ואת/ה בריא/ה (שתי נקודות או יותר).",
   "block.healthmod.bandage_box": "קופסת תחבושות",
   "death.attack.wound_infection": "%1$s מת מזיהום פצע",
-  "death.attack.wound_infection.player": "%1$s מת מזיהום פצע"
+  "death.attack.wound_infection.player": "%1$s מת מזיהום פצע",
+  "block.healthmod.blood_test_machine": "מכונת בדיקת דם",
+  "effect.healthmod.bleeding": "דימום"
 }
-  
