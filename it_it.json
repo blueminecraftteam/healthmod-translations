@@ -4,6 +4,7 @@
   "item.healthmod.blood_vial": "Fiala sanguigna",
   "item.healthmod.broccoli": "Broccolo",
   "block.healthmod.first_aid_kit": "Kit di pronto soccorso",
+  "effect.healthmod.bleeding": "Sanguinamento",
   "effect.healthmod.healthy": "Sano",
   "effect.healthmod.wound_infection": "Infezione feritale",
   "itemGroup.healthmod.all": "HealthMod",
