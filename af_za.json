@@ -7,7 +7,6 @@
   "item.healthmod.soap": "Seep",
   "block.healthmod.blood_test_machine": "Bloedtoetsmasjien",
   "block.healthmod.first_aid_kit": "Noodhulpkussie",
-  "effect.healthmod.bleeding": "Bloeding",
   "effect.healthmod.healthy": "Gesond",
   "effect.healthmod.wound_infection": "Wondinfeksie",
   "itemGroup.healthmod.all": "HealthMod",
