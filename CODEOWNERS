@@ -1,8 +1,11 @@
+# not translations
+README.md @xf8b
+# all people are added to this because if you change this you are relicensing
+LICENSE.md @xf8b @TheOnlyTails @ItalianCucumber @HigherLight
+.gitignore @xf8b
+# translations
 af_za.json @HigherLight
 en_gb.json @xf8b
 en_us.json @xf8b
 he_il.json @TheOnlyTails
 it_it.json @ItalianCucumber
-LICENSE.md @xf8b @TheOnlyTails @ItalianCucumber @HigherLight
-README.md @xf8b
-.gitignore @xf8b
