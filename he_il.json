@@ -33,7 +33,7 @@
   "text.autoconfig.healthmod.option.damagedInfectionChanceWhenHealthy": "סיכוי זיהום מפגיעה (בריא)",
   "text.autoconfig.healthmod.option.damagedInfectionChanceWhenHealthy.@Tooltip": "הסיכוי לקבל זיהום פצע כשאת/ה נפגע/ה ממכה ואת/ה בריא/ה (שתי נקודות או יותר).",
   "text.autoconfig.healthmod.option.extraSplashTexts": "משפטי כותרת נוספים",
-  "text.autoconfig.healthmod.option.extraSplashTexts.@Tooltip": "אם משפטי כותרת נוספים (כמו \"healthmod go brrrr\") יוספו",
+  "text.autoconfig.healthmod.option.extraSplashTexts.@Tooltip": "אם משפטי כותרת נוספים (כמו \"helth goes brrrr\") יוספו",
   "block.healthmod.bandage_box": "קופסת תחבושות",
   "item.healthmod.soap": "סבון",
   "death.attack.wound_infection": "%1$s מת מזיהום פצע",
