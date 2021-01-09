@@ -7,7 +7,6 @@
   "item.healthmod.soap": "Seep",
   "block.healthmod.blood_test_machine": "Bloedtoetsmasjien",
   "block.healthmod.first_aid_kit": "Noodhulpkussie",
-  "effect.healthmod.bleeding": "Bloeding",
   "effect.healthmod.healthy": "Gesond",
   "effect.healthmod.wound_infection": "Wondinfeksie",
   "itemGroup.healthmod.all": "HealthMod",
@@ -38,7 +37,7 @@
   "text.autoconfig.healthmod.option.extraSplashTexts": "Ekstra Splash Bewoording",
   "text.autoconfig.healthmod.option.extraSplashTexts.@Tooltip": "As ekstra splash bewoording (bv. \"helth goes brrrr\") bygevoeg moet word",
   "entity.minecraft.villager.doctor": "Dokter",
-  "subtitles.entity.villager.doctor": "Dokter is besig om te werk"
+  "subtitles.entity.villager.doctor": "Dokter is besig om te werk",
   "text.autoconfig.healthmod.option.bacterialResistanceChance": "Bakteriese Weerstandingskans",
   "text.autoconfig.healthmod.option.bacterialResistanceChance.@Tooltip": "Kans vir antibiotika om te misluk en skadelike effekte sterker te maak (1/config value)"
 }
