@@ -35,7 +35,7 @@
   "text.autoconfig.healthmod.option.bacterialResistanceChance": "Bacterie Weerstand Kans",
   "text.autoconfig.healthmod.option.bacterialResistanceChance.@Tooltip": "Kans dat antibiotica faalt en de schadelijke effecten erger maakt (1/config value) ",
   "block.healthmod.bandage_box": "Doos met pleisters.",
-  "item.healthmod.soap": "zeepbar",
+  "item.healthmod.soap": "Zeepbar",
   "death.attack.wound_infection": "%1$s is gestorven van een wond infectie.",
   "death.attack.wound_infection.player": "%1$s is gestorven van een wond infectie."
 }
