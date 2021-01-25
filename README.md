@@ -11,7 +11,8 @@ To the extent possible under law:
 - [ItalianCucumber](https://github.com/ItalianCucumber/),
 - [TheOnlyTails](https://github.com/TheOnlyTails),
 - [TsundereSenpai](https://github.com/TsundereSenpai),
-- and [HigherLight](https://github.com/HigherLight/)
+- [HigherLight](https://github.com/HigherLight/)
+- and [brammie15](https://github.com/brammie15/)
 
 have waived all copyright and related or neighboring rights to the HealthMod Translations.
 
