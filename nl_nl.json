@@ -10,7 +10,7 @@
   "effect.healthmod.wound_infection": "Wond Infectie",
   "entity.minecraft.villager.doctor": "Dokter",
   "subtitles.entity.villager.doctor": "Dokter Werkt",
-  "itemGroup.healthmod.all": "GezondheidsMod",
+  "itemGroup.healthmod.all": "HealthMod",
   "text.healthmod.bandage.1": "Geeft je regeneratie voor 15 seconden.",
   "text.healthmod.bandage.2": "Kan maar 1 keer gebruikt worden.",
   "text.healthmod.bandage.3": "Je hebt 25% kan op infecties",
@@ -18,7 +18,7 @@
   "text.healthmod.isopropyl_alcohol.apply": "Je voelt lichte pijn waar je bloedt.",
   "text.healthmod.soap.apply": "Je bent gereinigd.",
   "text.healthmod.antibiotics.resistant_bacteria": "Uh oh, de bacteriën hebben weerstand tegen anticbiotica.",
-  "text.autoconfig.healthmod.title": "GezondheidsMod Configuratie",
+  "text.autoconfig.healthmod.title": "HealthMod Configuratie",
   "text.autoconfig.healthmod.category.woundInfection": "Wond Infectie",
   "text.autoconfig.healthmod.category.easterEggs": "Easter Eggs",
   "text.autoconfig.healthmod.category.other": "Overige",
@@ -36,6 +36,6 @@
   "text.autoconfig.healthmod.option.bacterialResistanceChance.@Tooltip": "Kans dat antibiotica faalt en de schadelijke effecten erger maakt (1/config value) ",
   "block.healthmod.bandage_box": "Doos met pleisters.",
   "item.healthmod.soap": "Zeepbar",
-  "death.attack.wound_infection": "%1$s is gestorven van een wond infectie.",
+  "death.attack.wound_infection": "%1$s is gestorven door een wond infectie.",
   "death.attack.wound_infection.player": "%1$s is gestorven van een wond infectie."
 }
