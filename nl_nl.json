@@ -19,7 +19,7 @@
   "text.healthmod.soap.apply": "Je bent gereinigd.",
   "text.healthmod.antibiotics.resistant_bacteria": "Uh oh, de bacteriën hebben weerstand tegen anticbiotica.",
   "text.autoconfig.healthmod.title": "GezondheidsMod Configuratie",
-  "text.autoconfig.healthmod.category.woundInfection": "Wonde Infectie",
+  "text.autoconfig.healthmod.category.woundInfection": "Wond Infectie",
   "text.autoconfig.healthmod.category.easterEggs": "Easter Eggs",
   "text.autoconfig.healthmod.category.other": "Overige",
   "text.autoconfig.healthmod.option.bandageInfectionChance": "Pleister Infectie Kans",
