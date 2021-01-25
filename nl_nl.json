@@ -37,5 +37,5 @@
   "block.healthmod.bandage_box": "Doos met pleisters.",
   "item.healthmod.soap": "Zeepbar",
   "death.attack.wound_infection": "%1$s is gestorven door een wond infectie.",
-  "death.attack.wound_infection.player": "%1$s is gestorven van een wond infectie."
+  "death.attack.wound_infection.player": "%1$s is gestorven door een wond infectie."
 }
